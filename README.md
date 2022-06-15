@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋🏻, I'm Jude </br> 
+</h1>
+<p align="center">  🌱 Live my life and <b>STAY FOOLISH</b> </p>
+<p align="center">
+
+[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Jude-summery/)
+![](https://komarev.com/ghpvc/?username=Jude-summery&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+</p>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jude-summery&data=followers,repositories,stars,commits)](https://github.com/Jude-summery)
 
 <!--
 **Jude-summery/Jude-summery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="left">
-
-[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Jude-summery/)
-![](https://komarev.com/ghpvc/?username=Jude-summery&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
- 
-</div>  
 <p align="justify"> 
 Hi there 👋, welcome to my github
 &nbsp;
@@ -43,7 +45,7 @@ I code with :  👇
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Jude-summery&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Jude-summery&show_icons=true&count_private=true&theme=vue&hide_border=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-summery&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
