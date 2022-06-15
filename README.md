@@ -31,14 +31,12 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 ## Github Stats ✏️
-<div style="display:flex">
-<p style="flex:1">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Jude-summery&show_icons=true&count_private=true&theme=vue&hide_border=true" height="192px"/></a>
-</p>
-<p style="flex:1">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-summery&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-</p>
-</div>
+|            |  
+:-------------------------:|:-------------------------:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Jude-summery&show_icons=true&count_private=true&theme=vue&hide_border=true" height="192px"/></a>  |  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jude-summery's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-summery&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
 
+&nbsp;
+&nbsp;
 ## GitHub Profile Trophy 🏆
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jude-summery&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
