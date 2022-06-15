@@ -1,20 +1,19 @@
-<h1 align="center"> Hi 👋🏻, I'm Jude </br> 
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=000000&center=true&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Jude)](https://git.io/typing-svg)
 </h1>
 <p align="center">  🌱 Live my life and <b>STAY FOOLISH</b> </p>
 <p align="center">
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Jude-summery/)
 ![](https://komarev.com/ghpvc/?username=Jude-summery&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
 </p>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jude-summery&data=followers,repositories,stars,commits)](https://github.com/Jude-summery)
 
 <!--
 **Jude-summery/Jude-summery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋🏻 I'm Jude
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,10 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="justify"> 
-Hi there 👋, welcome to my github
-&nbsp;
-
+<p align="justify">
 my homepage is <a href="https://jude-summery.github.io/">https://jude-summery.github.io/</a>
 </p>
 
@@ -53,4 +49,4 @@ I code with :  👇
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jude-summery&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
